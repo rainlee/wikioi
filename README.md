@@ -1,4 +1,4 @@
 wikioi
 ======
 
-Solutions to wikioi
+Solutions to [`wikioi`](http://wikioi.com/training/)
